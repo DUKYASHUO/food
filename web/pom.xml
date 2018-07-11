@@ -41,6 +41,12 @@
         <dependency>
             <groupId>com.tuhu.finance</groupId>
             <artifactId>spring-boot-starter-finance-utils</artifactId>
+            <version>1.0.2018030803</version>
+        </dependency>
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>5.1.41</version>
         </dependency>
 
     </dependencies>
